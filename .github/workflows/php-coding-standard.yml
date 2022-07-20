@@ -8,7 +8,7 @@ on:
         type: string
         required: false
       message:
-        default: Fix code styling
+        default: 🎨 Apply laravel pint styles
         type: string
         required: false
 
